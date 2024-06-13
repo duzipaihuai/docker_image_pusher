@@ -1,1 +1,5 @@
 docker.io/jellyfin/jellyfin:latest
+docker.io/whyour/qinglong:latest
+docker.io/carseason/mfun:laster
+docker.io/onething1/wxedge:latest
+docker.io/homeassistant/home-assistant:latest
