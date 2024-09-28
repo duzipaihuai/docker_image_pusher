@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '00 04 * * *'
+    - cron: '00 01 * * *'
 
 
 env:
