@@ -4,3 +4,4 @@ docker.io/carseason/mfun:laster
 docker.io/onething1/wxedge:latest
 docker.io/homeassistant/home-assistant:latest
 docker.io/youshandefeiyang/allinone:latest
+docker.io/jxxghp/moviepilot:latest
